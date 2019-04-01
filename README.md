@@ -1,6 +1,6 @@
 # Monte-carlo-simulation
 
 How to use:
--Clone this repository
--Open file on mathlab
--Run file
+  1. Clone this repository
+  2. Open file on mathlab
+  3. Run file
